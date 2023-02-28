@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class Camera : MonoBehaviour
 {
-    [SerializeField] float leftLimit;
+    [SerializeField]
+    float leftLimit;
     [SerializeField]
     float rightLimit;
     [SerializeField]
